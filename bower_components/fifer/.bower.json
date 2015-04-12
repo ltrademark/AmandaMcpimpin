@@ -1,0 +1,23 @@
+{
+  "name": "fifer",
+  "main": [
+    "lib/fifer.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/f5io/fifer-js",
+  "_release": "4f10c7ee6b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4f10c7ee6b55fe80398b394b0701e166d89a6d83"
+  },
+  "_source": "git://github.com/f5io/fifer-js.git",
+  "_target": "*",
+  "_originalSource": "fifer",
+  "_direct": true
+}
